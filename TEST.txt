@@ -1,4 +1,8 @@
 test
 test2
 test3
+<<<<<<< HEAD
 test42
+=======
+test41
+>>>>>>> hotfix/correction-bug
